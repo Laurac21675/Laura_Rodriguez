@@ -78,6 +78,63 @@ El conjunto de datos representa información simulada de un restaurante, inspira
 ## 📁 Estructura del Repositorio
 
 ---
+# 📊 Análisis de Ventas y Horarios Pico en Restaurante
+
+## 📌 Descripción del Proyecto
+Este proyecto analiza los datos de ventas de un restaurante con el objetivo de identificar los horarios de mayor volumen de ventas, los productos más vendidos y aquellos que generan mayor ingreso.  
+El análisis busca apoyar decisiones relacionadas con la planificación operativa y la optimización de la oferta de productos.
+
+Los datos utilizados son simulados y están inspirados en un entorno operativo real.
+
+---
+
+## 🎯 Objetivos
+- Identificar los horarios pico de ventas
+- Analizar el desempeño de productos por categoría
+- Detectar los productos con mayor impacto en los ingresos
+- Apoyar la toma de decisiones basada en datos
+
+---
+
+## 🗂 Descripción de los Datos
+El conjunto de datos incluye:
+- Fecha y hora de la venta
+- Producto vendido
+- Categoría del producto
+- Cantidad vendida
+- Precio unitario
+- Total de la venta
+- Franja horaria
+
+*Nota: Los datos son simulados y utilizados únicamente con fines educativos y de portafolio.*
+
+---
+
+## 🛠 Herramientas y Tecnologías
+- Python (Pandas, Matplotlib)
+- Excel
+- Jupyter Notebook
+
+---
+
+## 🔍 Análisis Realizado
+- Limpieza y preparación de datos
+- Análisis de ventas por franja horaria
+- Comparación entre volumen de ventas e ingresos
+- Visualización de tendencias de ventas
+- Identificación de productos clave
+
+---
+
+## 📊 Principales Hallazgos
+- Los mayores ingresos se concentran en horarios específicos.
+- Algunos productos, aunque se venden menos, generan mayor ingreso.
+- Las bebidas presentan un alto impacto durante horarios pico.
+- Los resultados permiten optimizar inventarios y horarios de personal.
+
+---
+
+## 📁 Estructura del Repositorio
 
 ### 💬 Actualmente
 - Estoy aprendiendo: analisis de datos
